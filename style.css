@@ -12,11 +12,11 @@ html {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	margin: 0;
-    	padding: 0;
-    	height: 100%;
-    	width: 100%;
-	width: auto!important;
+	/* margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%; */
+	width: auto!important; overflow-x: auto!important;
   }
 
 
@@ -176,7 +176,7 @@ img {vertical-align: middle;}
 
 #like{
 	/* text-align: center; */
-	width: 18.4%;
+	width: 26.5%;
 	right: 40.8%;
 	position: relative;
 	font-family: 'Alef', sans-serif;
@@ -214,17 +214,6 @@ img {vertical-align: middle;}
     -1px -1px 0 rgb(47, 255, 248);
 }
 
-/* #QgAH2::after{
-	content: '';
-    position: absolute;
-    left: 50%;
-    bottom: 0;
-    transform: translateX(-50%);
-    height: 2px;
-    width: 150px;
-    border-radius: 2px;
-    background-color: #000000;
-} */
 
 #webDif td{
 	position: relative;
