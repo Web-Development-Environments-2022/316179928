@@ -28,7 +28,7 @@ body{
 	padding: 0;
 	height: 100%;
 	width: 100%;
-	width: auto!important; overflow-x: auto!important;
+	/* width: auto!important; overflow-x: auto!important; */
 }
 
 
@@ -217,7 +217,7 @@ img {vertical-align: middle;}
 	
 }
 
-/* #QgAH2{
+#QgAH2{
 	font: 400 2em/150% 'Handlee', Helvetica, Sans-serif;
 	text-align: center;
 	color:rgb(0, 0, 0);
@@ -225,7 +225,7 @@ img {vertical-align: middle;}
 	1px 1px 0 rgb(47, 255, 248),
     1px -1px 0 rgb(47, 255, 248),
     -1px -1px 0 rgb(47, 255, 248);
-} */
+}
 
 
 #webDif td{
