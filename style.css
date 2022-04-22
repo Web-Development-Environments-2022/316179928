@@ -86,8 +86,8 @@ body{
 	display: block;
 	float: left;
 	justify-content: center;
-	margin-right: 3%;
-	left: 27.5%;
+	margin-right: 3vw;
+/* 	left: 27.5%; */
 	color: #fff;
 	
 }
