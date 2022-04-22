@@ -28,9 +28,9 @@ body{
 	margin: 0;
 	padding: 0;
 	height: 100%;
-/* 	width: 100%; */
-	width: auto!important;
-	overflow-x: auto!important;
+	width: 100%;
+/* 	width: auto!important;
+	overflow-x: auto!important; */
 }
 
 
@@ -54,7 +54,9 @@ body{
 	left: 0;
 	right: 0;
 	display: inline-block;
-	width: 100%;
+/* 	width: 100%; */
+	width: auto!important;
+	overflow-x: auto!important;
 	height: 4%;
 	background: linear-gradient(rgba(1,1,1,1),rgba(1,1,1,1));
 	opacity: 80%;
