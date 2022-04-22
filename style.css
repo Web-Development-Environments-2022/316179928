@@ -16,7 +16,7 @@ html {
 	padding: 0;
 	height: 100%;
 	width: 100%;
-	width: auto!important; overflow-x: auto!important;
+/* 	width: auto!important; overflow-x: auto!important; */
   }
 
 
@@ -28,7 +28,7 @@ body{
 	padding: 0;
 	height: 100%;
 	width: 100%;
-	width: auto!important; overflow-x: auto!important;
+/* 	width: auto!important; overflow-x: auto!important; */
 }
 
 
