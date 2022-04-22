@@ -4,6 +4,11 @@
 	/* box-sizing: border-box; */
 }
 
+/* @-ms-viewport{
+  width: device-width;
+} */
+
+
 html { 
 	/* background: url(images/bg.jpg) no-repeat center center fixed;  */
 	/* background-image:url(photos/background8.webp); */
@@ -54,9 +59,9 @@ body{
 	left: 0;
 	right: 0;
 	display: inline-block;
-/* 	width: 100%; */
-	width: auto!important;
-	overflow-x: auto!important;
+	width: 100vw;
+/* 	width: auto!important;
+	overflow-x: auto!important; */
 	height: 4%;
 	background: linear-gradient(rgba(1,1,1,1),rgba(1,1,1,1));
 	opacity: 80%;
