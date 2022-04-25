@@ -3,14 +3,12 @@
 	padding: 0;
 }
 
-/* @-ms-viewport{
+@-ms-viewport{
   width: device-width;
-} */
+}
 
 
 html { 
-	/* background: url(images/bg.jpg) no-repeat center center fixed;  */
-	/* background-image:url(photos/background8.webp); */
 	background-image: url(photos/background8.webp);
 	background-position: center;
 	background-size: cover;
